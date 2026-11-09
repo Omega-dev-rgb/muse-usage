@@ -1,0 +1,13 @@
+{
+  "updatedAt": "2026-11-09T23:19:30+09:00",
+  "services": [
+    {
+      "id": "muse",
+      "name": "Muse",
+      "period": "Weekly",
+      "usedPercent": 3,
+      "remainingPercent": 97,
+      "resetsAt": "2026-11-10T08:18:00+09:00"
+    }
+  ]
+}
