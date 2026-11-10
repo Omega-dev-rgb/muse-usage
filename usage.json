@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T00:36:46+09:00",
+  "updatedAt": "2026-11-11T00:43:39+09:00",
   "services": [
     {
       "id": "muse",
@@ -14,19 +14,19 @@
       "id": "claude",
       "name": "Claude",
       "period": "Weekly",
-      "usedPercent": 71,
-      "remainingPercent": 29,
+      "usedPercent": 76,
+      "remainingPercent": 24,
       "resetsAt": "2026-11-12T23:00:00+09:00",
-      "updatedAt": "2026-11-10T18:42:17+09:00"
+      "updatedAt": "2026-11-11T00:43:39+09:00"
     },
     {
       "id": "claude-session",
       "name": "Claude",
       "period": "Session",
-      "usedPercent": 4,
-      "remainingPercent": 96,
-      "resetsAt": "2026-11-10T22:30:00+09:00",
-      "updatedAt": "2026-11-10T18:42:17+09:00"
+      "usedPercent": 10,
+      "remainingPercent": 90,
+      "resetsAt": "2026-11-11T03:50:00+09:00",
+      "updatedAt": "2026-11-11T00:43:39+09:00"
     },
     {
       "id": "chatgpt",
