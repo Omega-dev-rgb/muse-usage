@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T14:36:24+09:00",
+  "updatedAt": "2026-11-11T15:41:02+09:00",
   "services": [
     {
       "id": "muse",
@@ -63,6 +63,15 @@
       "remainingPercent": 100,
       "resetsAt": "2026-11-11T14:46:00+09:00",
       "updatedAt": "2026-11-11T13:32:39+09:00"
+    },
+    {
+      "id": "grok",
+      "name": "Grok",
+      "period": "Weekly",
+      "usedPercent": 1,
+      "remainingPercent": 99,
+      "resetsAt": "2026-11-16T22:32:00+09:00",
+      "updatedAt": "2026-11-11T15:41:02+09:00"
     }
   ]
 }
