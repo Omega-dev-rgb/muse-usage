@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T00:48:47+09:00",
+  "updatedAt": "2026-11-13T03:42:19+09:00",
   "services": [
     {
       "id": "muse",
@@ -71,7 +71,7 @@
       "usedPercent": 2,
       "remainingPercent": 98,
       "resetsAt": "2026-11-16T22:32:00+09:00",
-      "updatedAt": "2026-11-12T21:42:20+09:00"
+      "updatedAt": "2026-11-13T03:42:19+09:00"
     },
     {
       "id": "antigravity",
