@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T00:43:11+09:00",
+  "updatedAt": "2026-11-14T00:48:40+09:00",
   "services": [
     {
       "id": "muse",
@@ -32,10 +32,10 @@
       "id": "chatgpt",
       "name": "ChatGPT",
       "period": "Weekly",
-      "usedPercent": 30,
-      "remainingPercent": 70,
-      "resetsAt": "2026-11-14T00:46:51+09:00",
-      "updatedAt": "2026-11-13T18:48:36+09:00"
+      "usedPercent": 0,
+      "remainingPercent": 100,
+      "resetsAt": "2026-11-21T00:48:38+09:00",
+      "updatedAt": "2026-11-14T00:48:40+09:00"
     },
     {
       "id": "chatgpt-5h",
@@ -43,8 +43,8 @@
       "period": "5h",
       "usedPercent": 0,
       "remainingPercent": 100,
-      "resetsAt": "2026-11-13T23:00:57+09:00",
-      "updatedAt": "2026-11-13T18:48:36+09:00"
+      "resetsAt": "2026-11-14T05:48:38+09:00",
+      "updatedAt": "2026-11-14T00:48:40+09:00"
     },
     {
       "id": "gemini",
