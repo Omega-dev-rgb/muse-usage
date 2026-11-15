@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T13:06:32+09:00",
+  "updatedAt": "2026-11-15T13:33:52+09:00",
   "services": [
     {
       "id": "muse",
@@ -53,7 +53,7 @@
       "usedPercent": 0,
       "remainingPercent": 100,
       "resetsAt": "2026-11-16T01:46:00+09:00",
-      "updatedAt": "2026-11-15T07:34:27+09:00"
+      "updatedAt": "2026-11-15T13:33:52+09:00"
     },
     {
       "id": "gemini-5h",
@@ -61,8 +61,8 @@
       "period": "5h",
       "usedPercent": 0,
       "remainingPercent": 100,
-      "resetsAt": "2026-11-15T08:46:00+09:00",
-      "updatedAt": "2026-11-15T07:34:27+09:00"
+      "resetsAt": "2026-11-15T13:46:00+09:00",
+      "updatedAt": "2026-11-15T13:33:52+09:00"
     },
     {
       "id": "grok",
