@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T09:06:31+09:00",
+  "updatedAt": "2026-11-17T09:56:54+09:00",
   "services": [
     {
       "id": "muse",
@@ -79,8 +79,8 @@
       "period": "Weekly",
       "usedPercent": 0,
       "remainingPercent": 100,
-      "resetsAt": "2026-11-24T03:56:58+09:00",
-      "updatedAt": "2026-11-17T03:56:58+09:00"
+      "resetsAt": "2026-11-24T09:56:54+09:00",
+      "updatedAt": "2026-11-17T09:56:54+09:00"
     },
     {
       "id": "antigravity-5h",
@@ -88,8 +88,8 @@
       "period": "5h",
       "usedPercent": 0,
       "remainingPercent": 100,
-      "resetsAt": "2026-11-17T08:56:58+09:00",
-      "updatedAt": "2026-11-17T03:56:58+09:00"
+      "resetsAt": "2026-11-17T14:56:54+09:00",
+      "updatedAt": "2026-11-17T09:56:54+09:00"
     }
   ]
 }
