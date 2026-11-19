@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-19T19:33:09+09:00",
+  "updatedAt": "2026-11-19T20:06:31+09:00",
   "services": [
     {
       "id": "muse",
       "name": "Muse",
       "period": "Weekly",
-      "usedPercent": 62,
-      "remainingPercent": 38,
-      "resetsAt": "2026-11-19T19:52:00+09:00",
-      "updatedAt": "2026-11-19T17:06:27+09:00"
+      "usedPercent": 0,
+      "remainingPercent": 100,
+      "resetsAt": "2026-11-26T20:06:00+09:00",
+      "updatedAt": "2026-11-19T20:06:31+09:00"
     },
     {
       "id": "claude",
