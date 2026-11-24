@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T07:36:28+09:00",
+  "updatedAt": "2026-11-24T09:28:43+09:00",
   "services": [
     {
       "id": "muse",
@@ -68,10 +68,10 @@
       "id": "grok",
       "name": "Grok",
       "period": "Weekly",
-      "usedPercent": 100,
-      "remainingPercent": 0,
-      "resetsAt": "2026-11-23T22:32:00+09:00",
-      "updatedAt": "2026-11-20T12:53:27+09:00"
+      "usedPercent": 0,
+      "remainingPercent": 100,
+      "resetsAt": "2026-11-30T22:32:00+09:00",
+      "updatedAt": "2026-11-24T09:28:43+09:00"
     },
     {
       "id": "antigravity",
