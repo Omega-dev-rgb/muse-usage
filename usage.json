@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T00:48:39+09:00",
+  "updatedAt": "2026-11-28T03:06:30+09:00",
   "services": [
     {
       "id": "muse",
@@ -8,7 +8,7 @@
       "usedPercent": 19,
       "remainingPercent": 81,
       "resetsAt": "2026-12-03T20:06:00+09:00",
-      "updatedAt": "2026-11-28T00:06:28+09:00"
+      "updatedAt": "2026-11-28T03:06:30+09:00"
     },
     {
       "id": "claude",
